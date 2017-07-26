@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500005510 source:c:\users\jo\desktop\uh & official docs\uh classes\1.3 summer 2017\numerical methods, dr prosperretti\problem 7.1.2 lorenz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

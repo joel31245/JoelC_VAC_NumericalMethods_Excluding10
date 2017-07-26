@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1500064423 source:c:\users\jo\desktop\uh & official docs\uh classes\1.3 summer 2017\numerical methods, dr prosperretti\problem 7.1.3 planetary motion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"structBody.c"
+
+1500053755 c:\users\jo\desktop\uh & official docs\uh classes\1.3 summer 2017\numerical methods, dr prosperretti\problem 7.1.3 planetary motion\structbody.c
+	<stdio.h>
+	<math.h>
+

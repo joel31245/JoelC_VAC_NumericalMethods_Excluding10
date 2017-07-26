@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499719289 source:c:\users\jo\desktop\uh & official docs\uh classes\1.3 summer 2017\numerical methods, dr prosperretti\5.1.4 solving numerical integration with different methods\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
