@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1500305968 source:c:\users\jo\desktop\uh & official docs\uh classes\1.3 summer 2017\numerical methods, dr prosperretti\problem 9.1 thomas algorithm\main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-
